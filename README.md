@@ -1,6 +1,6 @@
 # README.md
 
-This README file provides a brief overview of the approach taken, main findings, and any challenges encountered in this project.
+This README file provides a brief overview of the approach taken, the main findings, and any challenges encountered in this project.
 
 ## Approach
 
